@@ -1,0 +1,32 @@
+
+.beer-card {
+    width: 258px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #534f6e; 
+    border-radius: 8px;
+    text-align: center;
+    background-color: #a4aeb140; 
+    color: black; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.338), 0 6px 25px 0 rgba(0, 0, 0, 0.19);
+    flex: auto;
+  }
+  .beer-card:hover{
+    box-shadow: 3px 7px black;
+    background-color: #9191948e; 
+
+  }  
+  .beer-image {
+    width: 150px;
+    height:350px;
+    border-radius: 5px;
+  }
+
+
+  @media screen and (max-width: 600px) {
+
+  }
+  
+
+  
+  

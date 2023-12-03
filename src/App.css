@@ -1,0 +1,11 @@
+.app-container {
+  /* padding: 20px; */
+  margin:0;
+  background-color:white; /* Dark purple background color */
+  color: #ffffff; /* White text color */
+}
+
+.beer-list {
+  display: flex;
+  flex-wrap: wrap;
+}
